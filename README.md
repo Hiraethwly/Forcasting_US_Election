@@ -13,9 +13,12 @@ Rscripts contain how we cleaned and modified the data.
 
 1. Cleaning data: It contains four Rscripts: 
 
-  (1). Reading and Selecting data.R
-  (2). Cleaning Survey.R
+  (1). Reading and Selecting data.R 
+  
+  (2). Cleaning Survey.R 
+  
   (3). Cleaning-census.R
+  
   (4). Cleaning Post strat.R
 
 2. Modeling and prediction analysis.R
