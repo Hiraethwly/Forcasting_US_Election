@@ -1,3 +1,19 @@
+#### Preamble ####
+# Purpose: Cleaning Survey data
+# Author: Linxia Li (1005715488), Leyi Wang (1006318682), 
+#         Xingnuo Zhang (1006145306),Yanlin Li (1003770305)
+# Data: 3 November 2020
+# Contact: tristal.li@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: 
+# - Need to have downloaded the data and save it into the 
+#   same folder as this document
+
+
+
+
+
+
 #### Workspace setup ####
 library(haven)
 library(tidyverse)

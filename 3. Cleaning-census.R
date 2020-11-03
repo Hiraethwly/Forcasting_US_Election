@@ -1,3 +1,16 @@
+#### Preamble ####
+# Purpose: Cleaning Census data
+# Author: Linxia Li (1005715488), Leyi Wang (1006318682), 
+#         Xingnuo Zhang (1006145306),Yanlin Li (1003770305)
+# Data: 3 November 2020
+# Contact: tristal.li@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: 
+# - Need to run the previous Rscript (1,2)
+
+
+
+
 ################## Cleaning Census data #####################
 
 #### Workspace setup ####

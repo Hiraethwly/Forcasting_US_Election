@@ -1,6 +1,20 @@
+#### Preamble ####
+# Purpose: Cleaning post stratification data
+# Author: Linxia Li (1005715488), Leyi Wang (1006318682), 
+#         Xingnuo Zhang (1006145306),Yanlin Li (1003770305)
+# Data: 3 November 2020
+# Contact: tristal.li@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: 
+# - Need to run the previous Rscript (1,2,3) and restart R session now
+
+
+
+
+
 ############# Cleaning Post stratification data #################
 
-# Restart R session before running this code
+# !!!!!!!!!!!!! Restart R session before running this code !!!!!!!!!!!!!
 
 #### Workspace setup ####
 library(haven)
