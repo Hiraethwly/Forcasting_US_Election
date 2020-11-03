@@ -31,8 +31,6 @@ survey <- read.csv("survey_data.csv")
 # Loading in the cleaned post stratification Data
 census <- read.csv("post_census_data.csv")
 
-# Loading in the cleaned novoteinfo Data
-novoteinfo_data <- read.csv("novoteinfo_data.csv")
 ```
 
 
@@ -263,3 +261,6 @@ kable(step$anova, caption = "BIC")
 ```
 From the table, we can see that variables state and education are removed from the model. We can then use the remaining variables: sex, age and race in our model. 
 
+## Repo
+
+Code and data supporting this analysis is available at https://github.com/Hiraethwly/Forcasting_US_Election.git
